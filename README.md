@@ -1,9 +1,9 @@
 <html>
-<p align="center">
+<h3 align="center">
     <b>Hi, I am Pramod Devireddy. Scientist/Engineer @ISRO. </b> </br>
-    <b>Fan of Vue Eco-System <img src="https://vuejs.org/images/logo.png" alt="vue" width="15"/> & Go Lang <img src="https://raw.githubusercontent.com/Pramod-Devireddy/Pramod-Devireddy/master/assets/gopher.png" alt="gopher" width="18"/> </b>
-</p>
-
+    <b>Fan of Vue Eco-System <img src="https://vuejs.org/images/logo.png" alt="vue" width="20"/> & Go Lang <img src="https://raw.githubusercontent.com/Pramod-Devireddy/Pramod-Devireddy/master/assets/gopher.png" alt="gopher" width="23"/> </b>
+</h3>
+</br>
 <p align="center">
   <a href="mailto:devireddy.pramod@gmail.com"><img src="https://img.shields.io/badge/GMail-devireddy.pramod-d14836?style=flat&logo=Gmail" alt="Gmail Badge"></a> &nbsp;
   <a href="https://twitter.com/PramodDevireddy"><img src="https://img.shields.io/badge/Twitter-PramodDevireddy-1da1f2?style=flat&logo=Twitter" alt="Twitter Badge"></a> &nbsp;
