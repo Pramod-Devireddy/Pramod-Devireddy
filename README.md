@@ -1,7 +1,7 @@
 <html>
 <h3 align="center">
-    <b>Hi <img src="./master/assets/handwave.gif" alt="gopher" width="30"/> I am Pramod Devireddy. Scientist/Engineer @ISRO </b> </br> </br>
-    <b>Building Projects with Vue <img src="https://vuejs.org/images/logo.png" alt="vue" width="20"/> & Go <img src="./master/assets/gopher.png" alt="gopher" width="23"/> </b>
+    <b>Hi <img src="./assets/handwave.gif" alt="gopher" width="30"/> I am Pramod Devireddy. Scientist/Engineer @ISRO </b> </br> </br>
+    <b>Building Projects with Vue <img src="https://vuejs.org/images/logo.png" alt="vue" width="20"/> & Go <img src="./assets/gopher.png" alt="gopher" width="23"/> </b>
 </h3>
 </br>
 <p align="center">
