@@ -1,6 +1,6 @@
 <html>
 <h3 align="center">
-    <b>Hi <img src="https://raw.githubusercontent.com/Pramod-Devireddy/Pramod-Devireddy/master/assets/handwave.gif" alt="gopher" width="30"/> I am Pramod Devireddy. Scientist/Engineer @ISRO. </b> </br> </br>
+    <b>Hi <img src="https://raw.githubusercontent.com/Pramod-Devireddy/Pramod-Devireddy/master/assets/handwave.gif" alt="gopher" width="25"/> I am Pramod Devireddy. Scientist/Engineer @ISRO. </b> </br> </br>
     <b>Building Projects with Vue Ecosystem <img src="https://vuejs.org/images/logo.png" alt="vue" width="20"/> & Go Lang <img src="https://raw.githubusercontent.com/Pramod-Devireddy/Pramod-Devireddy/master/assets/gopher.png" alt="gopher" width="23"/> </b>
 </h3>
 </br>
